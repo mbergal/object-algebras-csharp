@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+        <AssemblyName>ObjectAlgebras</AssemblyName>
+        <RootNamespace>ObjectAlgebras</RootNamespace>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="ObjectAlgebra.cs" />
+      <Compile Remove="OO-mod.cs" />
+      <Compile Remove="OO.cs" />
+      <Compile Remove="Visitor-mod.cs" />
+      <Compile Remove="Visitor.cs" />
+    </ItemGroup>
+
+</Project>
