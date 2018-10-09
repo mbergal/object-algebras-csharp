@@ -4,6 +4,11 @@ namespace ObjectAlgebra {
         A add(A e1, A e2);
     }
 
+    interface IntBoolAlg<A> : IntAlg<A> {
+        A boolean(bool b);
+        A iff(A e1, A e2, A e3);
+    }
+
     public interface IEval {
         int eval();
     }
@@ -71,6 +76,7 @@ namespace ObjectAlgebra {
             }
         }
     }
+
 }
 
 /*

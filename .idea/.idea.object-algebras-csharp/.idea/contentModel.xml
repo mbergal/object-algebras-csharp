@@ -23,6 +23,7 @@
           <e p="confree.cs" t="Include" />
           <e p="DecodeJson.cs" t="Include" />
         </e>
+        <e p="ObjectAlgebra-mod.cs" t="Include" />
         <e p="ObjectAlgebra.cs" t="Include" />
         <e p="OO-mod.cs" t="Include" />
         <e p="OO.cs" t="Include" />
