@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{E30BE05B-C18D-4778-8EAF-55EE5C66319B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "object-algebras-csharp", "object-algebras-csharp.csproj", "{E30BE05B-C18D-4778-8EAF-55EE5C66319B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

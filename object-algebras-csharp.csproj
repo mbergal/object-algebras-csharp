@@ -15,4 +15,9 @@
       <Compile Remove="Visitor.cs" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="LanguageExt.Core" Version="3.0.28" />
+      <PackageReference Include="System.Json" Version="4.5.0" />
+    </ItemGroup>
+
 </Project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\misha_000\.Rider2018.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\misha_000\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\misha_000\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_object-algebras-csharp.-1739119358.00" t="ExcludeRecursive" />
+    <e p="C:\Users\misha_000\Projects\object-algebras-csharp" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p=".gitignore" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="object-algebras-csharp.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="object-algebras-csharp.csproj" t="IncludeRecursive" />
+      <e p="object-algebras-csharp.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="src" t="Include">
+        <e p="Confree" t="Include">
+          <e p="confree.cs" t="Include" />
+          <e p="DecodeJson.cs" t="Include" />
+        </e>
+        <e p="ObjectAlgebra.cs" t="Include" />
+        <e p="OO-mod.cs" t="Include" />
+        <e p="OO.cs" t="Include" />
+        <e p="Visitor-mod.cs" t="Include" />
+        <e p="Visitor.cs" t="Include" />
+        <e p="Visitors" t="Include">
+          <e p="External.cs" t="Include" />
+          <e p="Internal.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
